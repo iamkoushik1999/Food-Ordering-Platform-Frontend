@@ -1,3 +1,4 @@
+import React from "react";
 import { Menu } from "lucide-react";
 import { Sheet, SheetContent, SheetDescription, SheetTitle, SheetTrigger } from "./ui/sheet";
 import { Separator } from "./ui/separator";
